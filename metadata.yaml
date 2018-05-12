@@ -1,0 +1,26 @@
+_repo: The-Mantooth_17394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leadem, Christopher
+    gutenberg_agent_id: '2103'
+    url: http://www.gutenberg.org/2009/agents/2103
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17394'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PS'
+title: The Mantooth
+url: http://www.gutenberg.org/ebooks/17394
